@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Thithira Paranawithana</h1>
-  <h3>🚀 Full-Stack & Software Develope | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h3>
+  <h3>🚀 Full-Stack & Software Developer | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h3>
   
   <p>
     <a href="mailto:thithiraparanawithana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
