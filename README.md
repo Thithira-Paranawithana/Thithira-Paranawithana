@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Thithira Paranawithana</h1>
-  <h3>🚀 Full-Stack & Software Developer | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h3>
+  <h4>🚀 Full-Stack & Software Developer | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h4>
   
   <p>
     <a href="mailto:thithiraparanawithana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -125,6 +125,5 @@ I am a final-year **Computer Engineering** undergraduate following a specializat
 ---
 
 <div align="center">
-  <h3>💡 "Innovation distinguishes between a leader and a follower" - Steve Jobs</h3>
-  <p>🌟 Always open to collaborating on exciting projects and innovative ideas!</p>
+  <h4>🌟 Always open to collaborating on exciting projects and innovative ideas!</h4>
 </div>
