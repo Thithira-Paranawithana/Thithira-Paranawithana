@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Thithira Paranawithana</h1>
-  <h3>🚀 Full-Stack Developer | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h3>
+  <h3>🚀 Full-Stack & Software Develope | 🤖 Machine Learning Enthusiast | 👁️ Passionate about Computer Vision</h3>
   
   <p>
     <a href="mailto:thithiraparanawithana@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,6 +9,11 @@
     <a href="tel:+94714083374"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   </p>
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="500"/>
+</div>
+
 
 ---
 
@@ -66,6 +71,10 @@ I am a final-year **Computer Engineering** undergraduate with a specialization i
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### **🗄️ Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
