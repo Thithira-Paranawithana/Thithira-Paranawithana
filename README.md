@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I am a final-year **Computer Engineering** undergraduate following a specialization in **Data Management**, deeply passionate about software and full-stack development, machine learning, and computer vision. My academic background has provided a solid foundation in computer science fundamentals, artificial intelligence, mathematical modeling, and algorithmic optimization. I am naturally curious and motivated by the challenge of applying innovative technologies to build efficient, impactful, and real-world solutions.
+I am a final-year **Computer Engineering** undergraduate following a specialization in **Data Management**, deeply passionate about **software and full-stack development**, **machine learning**, and **computer vision**. My academic background has provided a solid foundation in computer science fundamentals, artificial intelligence, mathematical modeling, and algorithmic optimization. I am naturally curious and motivated by the challenge of applying innovative technologies to build efficient, impactful, and real-world solutions.
 
 ---
 
