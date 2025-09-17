@@ -42,7 +42,7 @@ I am a **Computer Engineering** graduate with **first-class honours**, deeply pa
 
 ### **Trainee Software Engineer**
 **🏢 Innovation Quotient (Pvt) Ltd, Colombo**  
-📅 *2021 - 2025*
+📅 *May 2024 - Nov 2024*
 
 - 🔧 Contributed to a **full-stack enterprise human resource information system** project
 - 🔗 Actively participated in **backend API development**, **frontend implementation**, and **database operations**
